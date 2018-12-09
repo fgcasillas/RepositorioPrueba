@@ -17,3 +17,8 @@
  (06)  Hemos puesto en seguimiento el fichero bitacora desde la pestaña file Status clicando en stageAll
  (07)  Clickando en Commit (Boton de arriba a la izquierda), sin tener marcada la casilla de push hemos clicado en Commit (abajo a la derecha).
  (08)  Clickar dos veces sobre la rama Lola.
+ (10)  Mismas acciones que en el paso 06
+ (11)  Escribir el mensaje en la casilla de mensajes de commit y clickar en commit.
+ (16-17-18) descritas anteriormente
+ (19)  En la seccion de stashes, click derecho sobre el stash "Paso 12" y aplicar. Seleccionar borrar el stash despues de aplicar
+ 
