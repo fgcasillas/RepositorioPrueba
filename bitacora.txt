@@ -1,21 +1,25 @@
 %%=====================================================================%%
-%%                 Métodos de Desarrollo - Test de Git                 %%
+%%                 Mï¿½todos de Desarrollo - Test de Git                 %%
 %%=====================================================================%%
 %% Alumno (Fernando y Daniel):                                         %%
 %%=====================================================================%%
 
- Paso   Acción                       Notas
+ Paso   Acciï¿½n                       Notas
 ====== ============================ ===================================
  (03)   Commit "Hola mundo cruel"
  (04)   Checkout RamaLoca
- (05)   Merge RamaBuena              Al realizar la fusión, se produce
+ (05)   Merge RamaBuena              Al realizar la fusiï¿½n, se produce
                                      un error porque existen conflictos
                                      en el archivo problematico.txt.
- (06)   Commit "Conflitos Resueltos" 
+ (06)   Commit "Conflitos Resueltos"
 
 ====== ============================ ===================================
- (01)    Abrir nueva pestaña y pulsar en clone > Añaddir la url y clonar el repositio en la carpeta por defecto.
- (02)    Cliclar en el boton branch y añadir una nueva rama sin cambiarnos a ella,  con el nombre de Paco
+ (01)    Abrir nueva pestaï¿½a y pulsar en clone > Aï¿½addir la url y clonar el repositio en la carpeta por defecto.
+ (02)    Cliclar en el boton branch y aï¿½adir una nueva rama sin cambiarnos a ella,  con el nombre de Paco
  (03)    igual que en la 02
  (04)    Clicar dos veces sobre la rama con el nombre Paco.
-
+ (13)    Clicar dos veces sobre la rama Master
+ (14)    Click derecho sobre la rama que queremos unir (Paco) e indicar Merge Paco into current branch (Master)
+         El tipo de fusion ha sido realizado por FastForward puesto que en la rama master no habia ningun cambio
+         que pisase lineas de codigo en ficheros de la rama destino.
+         
