@@ -19,14 +19,17 @@
  (02)    Cliclar en el boton branch y a�adir una nueva rama sin cambiarnos a ella,  con el nombre de Paco
  (03)    igual que en la 02
  (04)    Clicar dos veces sobre la rama con el nombre Paco.
- (13)    Clicar dos veces sobre la rama Master
- (14)    Click derecho sobre la rama que queremos unir (Paco) e indicar Merge Paco into current branch (Master)
-         El tipo de fusion ha sido realizado por FastForward puesto que en la rama master no habia ningun cambio
-         que pisase lineas de codigo en ficheros de la rama destino.
  (06)  Hemos puesto en seguimiento el fichero bitacora desde la pestaña file Status clicando en stageAll
  (07)  Clickando en Commit (Boton de arriba a la izquierda), sin tener marcada la casilla de push hemos clicado en Commit (abajo a la derecha).
  (08)  Clickar dos veces sobre la rama Lola.
  (10)  Mismas acciones que en el paso 06
  (11)  Escribir el mensaje en la casilla de mensajes de commit y clickar en commit.
- (16-17-18) descritas anteriormente
+ (13)    Clicar dos veces sobre la rama Master
+ (14)    Click derecho sobre la rama que queremos unir (Paco) e indicar Merge Paco into current branch (Master)
+         El tipo de fusion ha sido realizado por FastForward puesto que en la rama master no habia ningun cambio
+         que pisase lineas de codigo en ficheros de la rama destino.
+  (16-17-18) descritas anteriormente
  (19)  En la seccion de stashes, click derecho sobre el stash "Paso 12" y aplicar. Seleccionar borrar el stash despues de aplicar
+  (21-22-23) Preparar, realizar commit y desplazarse a Master
+  (24)  Merge recursivo ya que la rama master ya no es igual que la rama Lola. Debido a que el commit de la rama donde actualmente
+        se esta (master) no es un antepasado directo de la rama a fusionar.
