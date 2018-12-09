@@ -1,7 +1,7 @@
 %%=====================================================================%%
 %%                 Métodos de Desarrollo - Test de Git                 %%
 %%=====================================================================%%
-%% Alumno (Apellidos, Nombre):                                         %%
+%% Alumno (Fernando y Daniel):                                         %%
 %%=====================================================================%%
 
  Paso   Acción                       Notas
@@ -14,3 +14,8 @@
  (06)   Commit "Conflitos Resueltos" 
 
 ====== ============================ ===================================
+ (01)    Abrir nueva pestaña y pulsar en clone > Añaddir la url y clonar el repositio en la carpeta por defecto.
+ (02)    Cliclar en el boton branch y añadir una nueva rama sin cambiarnos a ella,  con el nombre de Paco
+ (03)    igual que en la 02
+ (04)    Clicar dos veces sobre la rama con el nombre Paco.
+
